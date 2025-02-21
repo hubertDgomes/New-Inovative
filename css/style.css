@@ -103,19 +103,61 @@ ul li {
 /* Banner Part End */
 /* Feature start */
 .featurePart{
-    padding: 120px 0;
+    padding: 50px 0;
 }
 .forPOSS{
     position: relative;
 }
-.back1{
+.back1 {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 80px;
+    left: 83px;
 }
 .up1 {
     position: absolute;
-    top: -88px;
-    left: 56px;
+    top: -11px;
+    left: 145px;
+}
+.featP{
+    font-family: "Nunito", serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FF5538;
+}
+.firstBox{
+    padding: 28px 20px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 30px;
+    text-align: center;
+}
+.firstBox1{
+    padding: 28px 20px;
+    background: #FF5538;
+    margin-bottom: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+.forInnerFlex{
+    display: inline-flex;
+    align-items: center;
+    column-gap: 20px;
+}
+.imgFeatPart{
+    width: 50px;
+    height: 50px;
+    background: #ffffff;
+    border-radius: 50%;
+}
+.featH3{
+    padding-bottom: 21px;
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.featP2{
+    font-family: "Nunito", serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 20px;
 }
 /* Feature End */
